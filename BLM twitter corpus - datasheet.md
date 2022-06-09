@@ -1,4 +1,4 @@
-# Black Lives Matter twitter corpus (BLMtwitter) &mdash datasheet
+# Black Lives Matter twitter corpus (BLMtwitter) --- datasheet
 
 By: [A. Maurits van der Veen](http://www.maurits.net/) `<maurits@wm.edu>`
 
@@ -9,12 +9,10 @@ If you use the BLM twitter corpus, please cite the associated paper:
  
 ```
 @inproceedings{cao2019toward,
-  title={Toward Gender-Inclusive Coreference Resolution},
-  author={Yang Trista Cao and Hal Daum{\'e}},
-  booktitle={Proceedings of the Conference of
-             the Association for Computational Linguistics (ACL)},
-  year={2020},
-  note={abs/1910.13913}
+  title={BLMtwitter: The Black Lives Matter (BLM) Twitter Corpus},
+  author={van der Veen, A. Maurits}},
+  year={2022},
+  note={osf.io/preprints/socarxiv/kna9s}
 }
 ```
 
