@@ -1,4 +1,4 @@
-# Black Lives Matter twitter corpus (BLMtwitter) --- datasheet
+# Black Lives Matter twitter corpus (BLMtwitter): Datasheet
 
 By: [A. Maurits van der Veen](http://www.maurits.net/) `<maurits@wm.edu>`
 
@@ -10,7 +10,7 @@ If you use the BLM twitter corpus, please cite the associated paper:
 ```
 @inproceedings{cao2019toward,
   title={BLMtwitter: The Black Lives Matter (BLM) Twitter Corpus},
-  author={van der Veen, A. Maurits}},
+  author={van der Veen, A. Maurits},
   year={2022},
   note={osf.io/preprints/socarxiv/kna9s}
 }
@@ -52,7 +52,7 @@ If you use the BLM twitter corpus, please cite the associated paper:
 
 1. **How many instances are there in total (of each type, if appropriate)?**
     
-    The dataset consists of *** Black Lives Matter tweets, *** All Lives Matter tweets, and *** Blue Lives Matter tweets.
+    The dataset consists of 49,641,654 Black Lives Matter tweets, 3,877,728 All Lives Matter tweets, and 2,255,885 Blue Lives Matter tweets.
 
 
 1. **Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** *(If the dataset is a sample, then what is the larger set? Is the sample representative of the larger set (e.g., geographic coverage)? If so, please describe how this representativeness was validated/verified. If it is not representative of the larger set, please describe why not (e.g., to cover a more diverse range of instances, because instances were withheld or unavailable).]* 
