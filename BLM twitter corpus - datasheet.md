@@ -1,4 +1,4 @@
-# Black Lives Matter twitter corpus (BLMtwitter): Datasheet
+# BLMtwitter Datasheet: The Black Lives Matter (BLM) twitter corpus
 
 By: [A. Maurits van der Veen](http://www.maurits.net/) `<maurits@wm.edu>`
 
@@ -275,7 +275,7 @@ If you use the BLM twitter corpus, please cite the associated paper:
 
 1. **How will the dataset will be distributed (e.g., tarball  on website, API, GitHub)?** *(Does the dataset have a digital object identifier (DOI)?)*
     
-    The dataset is free for download at Zenodo
+    The dataset is free for download at Zenodo (https://doi.org/10.5281/zenodo.6628275)
 
 
 1. **When will the dataset be distributed?**
@@ -285,7 +285,7 @@ If you use the BLM twitter corpus, please cite the associated paper:
 
 1. **Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** *(If so, please describe this license and/or ToU, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated with these restrictions.)*
     
-    The dataset is licensed under a ?? license.
+    The dataset is licensed under the following license: Creative Commons Attribution 4.0 International.
 
 
 1. **Have any third parties imposed IP-based or other restrictions on the data associated with the instances?** *(If so, please describe these restrictions, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms, as well as any fees associated with these restrictions.)*
