@@ -12,6 +12,6 @@ An associated paper describes the corpus construction process, including selecti
   
 If you use the corpora, please cite the accompanying paper:
 
-        van der Veen, A. Maurits. 2022. "BLMtwitter: The Black Lives Matter (BLM) Twitter Corpus." <i>SocArxiv</i> (doi 10.31235/osf.io/kna9s).
+        van der Veen, A. Maurits. 2022. "BLMtwitter: The Black Lives Matter (BLM) Twitter Corpus." SocArxiv (doi 10.31235/osf.io/kna9s).
   
 _Last updated June 14, 2022._
